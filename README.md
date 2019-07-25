@@ -3,4 +3,5 @@ List of all of my side-projects made with Angular with the purpose of practicing
 
 ### Filtered List
 
+**Live:** Soon!
 **Code:** https://github.com/nikolap99/shop-n-show
